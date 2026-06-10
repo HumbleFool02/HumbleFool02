@@ -95,6 +95,6 @@ At **Acaira**, I built RESTful backend services serving 1,000+ daily users, inte
 ---
 
 <p align="center">
-  <i>Open to SWE and ML Engineering opportunities · graduating May 2026</i><br/>
+  <i>Open to SWE and ML Engineering opportunities</i><br/>
   <a href="mailto:kaslepiyush07@gmail.com">kaslepiyush07@gmail.com</a>
 </p>
