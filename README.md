@@ -1,91 +1,110 @@
-<h1 align="center">Hi, I'm Piyush Kasle</h1>
+<h1 align="center">Hi, I'm Piyush Kasle 👋</h1>
 
 <p align="center">
-  Backend and full stack engineer · MS Software Engineering, Florida Institute of Technology
+  <b>Software Engineer · ML Systems · Full Stack Developer</b><br/>
+  MS Software Engineering, Florida Institute of Technology · Melbourne, FL
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Backend+and+full+stack+engineer;MS+Software+Engineering%2C+FIT+(May+2026);ML+serving+and+drift+monitoring+for+a+health+center+app;Available+to+start+immediately" alt="Backend and full stack engineer. MS Software Engineering, FIT. Available to start immediately." />
-</p>
-
-<p align="center">
-  I build backend and full stack systems, with a lean toward the infrastructure around ML: serving, deployment and monitoring.
-</p>
-
-<p align="center">
-  <a href="mailto:kaslepiyush07@gmail.com"><img src="https://img.shields.io/badge/Email-kaslepiyush07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/piyush-kasle"><img src="https://img.shields.io/badge/LinkedIn-Piyush%20Kasle-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,js,nodejs,express,fastapi,flask,react,postgres,mysql,redis,docker,aws,githubactions,linux,pytorch,git&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,js,nodejs,express,fastapi,flask,react,postgres,mysql,redis,docker,aws,githubactions,linux,pytorch,git&theme=light&perline=9" />
-    <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,fastapi,flask,react,postgres,mysql,redis,docker,aws,githubactions,linux,pytorch,git&perline=9" alt="Python, Java, JavaScript, Node.js, Express, FastAPI, Flask, React, PostgreSQL, MySQL, Redis, Docker, AWS, GitHub Actions, Linux, PyTorch, Git" />
-  </picture>
+  <a href="mailto:kaslepiyush07@gmail.com"><img src="https://img.shields.io/badge/Email-kaslepiyush07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush-kasle"><img src="https://img.shields.io/badge/LinkedIn-Piyush%20Kasle-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/HumbleFool02"><img src="https://img.shields.io/badge/GitHub-HumbleFool02-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## Projects
+## About me
 
-### [Mental Health MLOps](https://github.com/HumbleFool02/mental-health-mlops)
+I'm a software engineer with a year of industry experience and an MS in Software Engineering from FIT (May 2026). I enjoy building things end to end, from FastAPI and Express backends and React frontends to ML monitoring pipelines deployed on AWS.
 
-ML side of a university health center's student check in app: a DistilBERT classifier served with FastAPI on AWS, with drift monitoring and a dashboard.
+- 🔭 Recently built ML serving and drift monitoring for a university health center app
+- 🌱 Exploring LLMOps, distributed systems, and production ML patterns
+- 💼 Open to new grad software engineering roles (backend, full stack, ML infrastructure). Available to start immediately
+- ⚡ Fun fact: I've used Git for 8 years
 
-[![Tests](https://github.com/HumbleFool02/mental-health-mlops/actions/workflows/test.yml/badge.svg)](https://github.com/HumbleFool02/mental-health-mlops/actions/workflows/test.yml)
-[![Docker Build and Push](https://github.com/HumbleFool02/mental-health-mlops/actions/workflows/docker-build.yml/badge.svg)](https://github.com/HumbleFool02/mental-health-mlops/actions/workflows/docker-build.yml)
+---
 
-<details>
-<summary><b>Architecture</b></summary>
+## 🛠 Tech stack
 
-```mermaid
-graph LR
-  A[Student check in app] --> B[FastAPI on EC2]
-  B --> C[DistilBERT classifier]
-  C --> D[(PostgreSQL logs)]
-  D --> E[Drift monitor]
-  E --> F[Streamlit dashboard]
-  S[(S3 model store)] --> G[Docker build]
-  G --> B
-```
+**Languages**
 
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### [Smart Parking Management System](https://github.com/HumbleFool02/Parking-Management-Sytem)
+**Frameworks & Libraries**
 
-Campus smart parking: YOLOv8 slot detection on camera footage plus a Flask booking app.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<details>
-<summary><b>Architecture</b></summary>
+**DevOps & Cloud**
 
-```mermaid
-graph LR
-  A[Campus camera feed] --> B[YOLOv8 and OpenCV detection]
-  B --> C[Slot status]
-  C --> D[Flask booking app]
-  U[Users] --> D
-  D --> E[(Database)]
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</details>
+---
 
-### [Security Shift Manager](https://github.com/HumbleFool02/security-shift-manager)
+## 🚀 Featured projects
 
-Three role Flask app for scheduling a campus security workforce: fair roster generation, leave workflow and payroll.
+### 🔬 [MLOps Monitoring Platform](https://github.com/HumbleFool02/mental-health-mlops)
+Real time ML monitoring for a DistilBERT NLP model (81.9% F1 score), built for a university health center's student check in app.
+- 98ms inference latency, served with FastAPI on AWS EC2, logging every prediction to PostgreSQL
+- Three tier drift detection (PSI, KS, JS divergence) at an 8% false alarm rate
+- Docker and GitHub Actions CI/CD: test, build and push to GHCR, deploy to EC2
 
-<details>
-<summary><b>Architecture</b></summary>
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Docker` `AWS` `PyTorch` `Streamlit`
 
-```mermaid
-graph LR
-  M[Manager] --> F[Flask app]
-  S[Security staff] --> F
-  A[Admin] --> F
-  F --> R[Roster generator]
-  F --> P[Payroll]
-  F --> O[SQLAlchemy]
-  O --> DB[(MySQL)]
-```
+---
 
-</details>
+### 🅿️ [Smart Parking Management System](https://github.com/HumbleFool02/Parking-Management-Sytem)
+Full stack parking platform with real time computer vision.
+- YOLOv8 on the live campus camera feed for slot detection (98% accuracy)
+- Load tested to 100 concurrent users at under 200ms, with no double booking
+- Payment integration via Razorpay, JWT auth, booking dashboard
+
+**Stack:** `Python` `Flask` `PostgreSQL` `YOLOv8` `OpenCV`
+
+---
+
+### 🛡️ [Security Shift Manager](https://github.com/HumbleFool02/security-shift-manager)
+Three role Flask app for scheduling and running a campus security guard workforce.
+- Fairness constrained roster generation across 8 patrol locations and 3 shifts, recording uncovered slots instead of producing an invalid roster
+- Two tier leave cancellation workflow, with a separate manager approval for cancelling approved leave
+- Database level uniqueness constraints that make double booking a guard structurally impossible
+
+**Stack:** `Python` `Flask` `SQLAlchemy` `MySQL` `JWT` `Bootstrap`
+
+---
+
+## 💼 Experience highlights
+
+| Role | Company | Period |
+|------|---------|--------|
+| Software Developer | Acaira Technologies | Jun 2023 to May 2024 |
+| Teaching Assistant (Grader), Database Systems | Florida Institute of Technology | Spring 2026 |
+| Software Lead, then Computer Science Head | Team Robocon CRCE | Dec 2021 to May 2023 |
+
+At **Acaira**, I built backend services for a school app serving about 1,100 students: automatic fee receipts and cheque tracking (**4,300+** receipts and notices a year), Google Meet attendance that saved teachers **5+ hours** a week, and an analytics dashboard whose median load time I cut by **94%** (3.2s to 180ms).
+
+At **Team Robocon CRCE**, I led drive code and integration testing for national competition robots, finishing **All India Rank 21** (2022) and **23** (2023).
+
+---
+
+<p align="center">
+  <i>Open to software engineering roles · Available to start immediately</i><br/>
+  <a href="mailto:kaslepiyush07@gmail.com">kaslepiyush07@gmail.com</a>
+</p>
