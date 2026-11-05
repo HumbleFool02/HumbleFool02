@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Piyush Kasle 👋</h1>
+<a href="https://github.com/HumbleFool02">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=1F6FEB&height=300&section=header&text=Piyush%20Kasle&fontSize=80&fontColor=FFFFFF&desc=Software%20Engineer%20%C2%B7%20ML%20Systems%20%C2%B7%20Full%20Stack&descSize=22&descAlign=50&descAlignY=68&animation=fadeIn" width="100%" alt="Piyush Kasle, Software Engineer, ML Systems, Full Stack"/>
+</a>
 
 <p align="center">
-  <b>Software Engineer · ML Systems · Full Stack Developer</b><br/>
   MS Software Engineering, Florida Institute of Technology · Melbourne, FL
 </p>
 
@@ -95,10 +96,12 @@ Three role Flask app for scheduling and running a campus security guard workforc
 | Role | Company | Period |
 |------|---------|--------|
 | Software Developer | Acaira Technologies | Jun 2023 to May 2024 |
-| Teaching Assistant, Database Systems | Florida Institute of Technology | Spring 2026 |
+| Teaching Assistant (Grader), Database Systems | Florida Institute of Technology | Spring 2026 |
 | Software Lead, then Computer Science Head | Team Robocon CRCE | Dec 2021 to May 2023 |
 
 At **Acaira**, I built backend services for a school app serving about 1,100 students: automatic fee receipts and cheque tracking (**4,300+** receipts and notices a year), Google Meet attendance that saved teachers **5+ hours** a week, and an analytics dashboard whose median load time I cut by **94%** (3.2s to 180ms).
+
+At **Team Robocon CRCE**, I led drive code and integration testing for national competition robots, finishing **All India Rank 21** (2022) and **23** (2023).
 
 ---
 
