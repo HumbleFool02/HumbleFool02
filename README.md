@@ -100,8 +100,6 @@ Three role Flask app for scheduling and running a campus security guard workforc
 
 At **Acaira**, I built backend services for a school app serving about 1,100 students: automatic fee receipts and cheque tracking (**4,300+** receipts and notices a year), Google Meet attendance that saved teachers **5+ hours** a week, and an analytics dashboard whose median load time I cut by **94%** (3.2s to 180ms).
 
-At **Team Robocon CRCE**, I led drive code and integration testing for national competition robots, finishing **All India Rank 21** (2022) and **23** (2023).
-
 ---
 
 <p align="center">
