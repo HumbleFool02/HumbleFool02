@@ -95,7 +95,7 @@ Three role Flask app for scheduling and running a campus security guard workforc
 | Role | Company | Period |
 |------|---------|--------|
 | Software Developer | Acaira Technologies | Jun 2023 to May 2024 |
-| Teaching Assistant (Grader), Database Systems | Florida Institute of Technology | Spring 2026 |
+| Teaching Assistant, Database Systems | Florida Institute of Technology | Spring 2026 |
 | Software Lead, then Computer Science Head | Team Robocon CRCE | Dec 2021 to May 2023 |
 
 At **Acaira**, I built backend services for a school app serving about 1,100 students: automatic fee receipts and cheque tracking (**4,300+** receipts and notices a year), Google Meet attendance that saved teachers **5+ hours** a week, and an analytics dashboard whose median load time I cut by **94%** (3.2s to 180ms).
