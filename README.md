@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=300&section=header&text=Piyush%20Kasle&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20Engineer&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="Piyush Kasle, Software Development Engineer"/>
 
 <p align="center">
-  <a href="mailto:kaslepiyush07@gmail.com"><img src="https://img.shields.io/badge/Email-kaslepiyush07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/piyush-kasle"><img src="https://img.shields.io/badge/LinkedIn-Piyush%20Kasle-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/HumbleFool02"><img src="https://img.shields.io/badge/GitHub-HumbleFool02-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:kaslepiyush07@gmail.com"><img src="https://img.shields.io/badge/Email-kaslepiyush07%40gmail.com-3A1C71?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush-kasle"><img src="https://img.shields.io/badge/LinkedIn-Piyush%20Kasle-D76D77?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/HumbleFool02"><img src="https://img.shields.io/badge/GitHub-HumbleFool02-FFAF7B?style=for-the-badge&logo=github&logoColor=3A1C71"/></a>
 </p>
 
 ---
@@ -23,33 +23,33 @@ I'm a software engineer with a year of industry experience and an MS in Software
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3A1C71?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3A1C71?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-3A1C71?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3A1C71?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-D76D77?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-D76D77?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-D76D77?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-D76D77?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-D76D77?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-D76D77?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-D76D77?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-D76D77?style=for-the-badge&logo=huggingface&logoColor=white)
+![scikit learn](https://img.shields.io/badge/scikit%20learn-D76D77?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-D76D77?style=for-the-badge&logo=opencv&logoColor=white)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-FFAF7B?style=for-the-badge&logo=docker&logoColor=3A1C71)
+![AWS](https://img.shields.io/badge/AWS-FFAF7B?style=for-the-badge&logo=amazonaws&logoColor=3A1C71)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-FFAF7B?style=for-the-badge&logo=githubactions&logoColor=3A1C71)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFAF7B?style=for-the-badge&logo=postgresql&logoColor=3A1C71)
+![MySQL](https://img.shields.io/badge/MySQL-FFAF7B?style=for-the-badge&logo=mysql&logoColor=3A1C71)
+![Redis](https://img.shields.io/badge/Redis-FFAF7B?style=for-the-badge&logo=redis&logoColor=3A1C71)
+![Linux](https://img.shields.io/badge/Linux-FFAF7B?style=for-the-badge&logo=linux&logoColor=3A1C71)
 
 ---
 
@@ -90,12 +90,8 @@ Three role Flask app for scheduling and running a campus security guard workforc
 | Role | Company | Period |
 |------|---------|--------|
 | Software Developer | Acaira Technologies | Jun 2023 to May 2024 |
-| Teaching Assistant (Grader), Database Systems | Florida Institute of Technology | Spring 2026 |
+| Teaching Assistant, Database Systems | Florida Institute of Technology | Spring 2026 |
 | Software Lead, then Computer Science Head | Team Robocon CRCE | Dec 2021 to May 2023 |
-
-At **Acaira**, I built backend services for a school app serving about 1,100 students: automatic fee receipts and cheque tracking (**4,300+** receipts and notices a year), Google Meet attendance that saved teachers **5+ hours** a week, and an analytics dashboard whose median load time I cut by **94%** (3.2s to 180ms).
-
-At **Team Robocon CRCE**, I led drive code and integration testing for national competition robots, finishing **All India Rank 21** (2022) and **23** (2023).
 
 ---
 
@@ -103,3 +99,5 @@ At **Team Robocon CRCE**, I led drive code and integration testing for national 
   <i>Open to software engineering roles · Available to start immediately</i><br/>
   <a href="mailto:kaslepiyush07@gmail.com">kaslepiyush07@gmail.com</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=120&section=footer" width="100%"/>
