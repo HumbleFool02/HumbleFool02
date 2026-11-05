@@ -23,33 +23,33 @@ I'm a software engineer with a year of industry experience and an MS in Software
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3A1C71?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3A1C71?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3A1C71?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3A1C71?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-D76D77?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-D76D77?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-D76D77?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-D76D77?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-D76D77?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-D76D77?style=for-the-badge&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-D76D77?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-D76D77?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit learn](https://img.shields.io/badge/scikit%20learn-D76D77?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-D76D77?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-FFAF7B?style=for-the-badge&logo=docker&logoColor=3A1C71)
-![AWS](https://img.shields.io/badge/AWS-FFAF7B?style=for-the-badge&logo=amazonaws&logoColor=3A1C71)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-FFAF7B?style=for-the-badge&logo=githubactions&logoColor=3A1C71)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFAF7B?style=for-the-badge&logo=postgresql&logoColor=3A1C71)
-![MySQL](https://img.shields.io/badge/MySQL-FFAF7B?style=for-the-badge&logo=mysql&logoColor=3A1C71)
-![Redis](https://img.shields.io/badge/Redis-FFAF7B?style=for-the-badge&logo=redis&logoColor=3A1C71)
-![Linux](https://img.shields.io/badge/Linux-FFAF7B?style=for-the-badge&logo=linux&logoColor=3A1C71)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
