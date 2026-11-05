@@ -1,10 +1,4 @@
-<a href="https://github.com/HumbleFool02">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=1F6FEB&height=300&section=header&text=Piyush%20Kasle&fontSize=80&fontColor=FFFFFF&desc=Software%20Engineer%20%C2%B7%20ML%20Systems%20%C2%B7%20Full%20Stack&descSize=22&descAlign=50&descAlignY=68&animation=fadeIn" width="100%" alt="Piyush Kasle, Software Engineer, ML Systems, Full Stack"/>
-</a>
-
-<p align="center">
-  MS Software Engineering, Florida Institute of Technology · Melbourne, FL
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=300&section=header&text=Piyush%20Kasle&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20Engineer&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="Piyush Kasle, Software Development Engineer"/>
 
 <p align="center">
   <a href="mailto:kaslepiyush07@gmail.com"><img src="https://img.shields.io/badge/Email-kaslepiyush07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
