@@ -89,9 +89,9 @@ Three role Flask app for scheduling and running a campus security guard workforc
 
 | Role | Company | Period |
 |------|---------|--------|
-| Software Developer | Acaira Technologies | Jun 2023 to May 2024 |
+| Software Developer | Acaira Technologies | Jun 2023 - May 2024 |
 | Teaching Assistant, Database Systems | Florida Institute of Technology | Spring 2026 |
-| Software Lead, then Computer Science Head | Team Robocon CRCE | Dec 2021 to May 2023 |
+| Embedded Software Developer | Team Robocon CRCE | Dec 2021 - May 2023 |
 
 ---
 
