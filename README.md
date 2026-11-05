@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=300&section=header&text=Piyush%20Kasle&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20Engineer&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="Piyush Kasle, Software Development Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,50:D76D77,100:FFAF7B&height=300&section=header&text=Piyush%20Kasle&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20Engineer&descSize=24&descAlignY=58&animation=fadeIn" width="100%" alt="Piyush Kasle, Software Development Engineer"/>
 
 <p align="center">
   <a href="mailto:kaslepiyush07@gmail.com"><img src="https://img.shields.io/badge/Email-kaslepiyush07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
